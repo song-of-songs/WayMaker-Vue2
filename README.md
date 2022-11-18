@@ -1,4 +1,4 @@
-# y
+# WayMaker-Vue2
 
 > A Vue.js project
 
